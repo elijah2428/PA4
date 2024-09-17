@@ -13,10 +13,8 @@
 
 ####    1. Create the following data frames based on the format provided: Example: Vis = ["Name", "Gender", "Track", "Math<70"]; hometown is constant as Visayas
 #### Output:
-#### Name Gender Track Math
-#### S4 Male Instrumentation 65
-#### S11 Female Communication 48
-#### S22 Female Communication 64
+![image](https://github.com/user-attachments/assets/d8d97d10-b8d5-4673-a6c4-557e8f08bd81)
+
 
 #### a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant a Instrumentation and hometown Luzon
 
